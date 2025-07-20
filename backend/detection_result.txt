@@ -1,0 +1,3 @@
+Count: 14
+First box coordinates: [332, 353, 359, 466]
+Image size: 159232 chars
